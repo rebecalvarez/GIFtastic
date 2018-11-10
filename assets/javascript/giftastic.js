@@ -1,5 +1,5 @@
 
-var emotions = ["excited", "happy", "sad", "overwhelmed", "tired","in love","motivated", "Hungry","Thinking"];
+var emotions = ["Excited", "Happy", "Sad", "Overwhelmed", "Tired","In Love","Motivated", "Hungry","Thinking"];
 
 
 
