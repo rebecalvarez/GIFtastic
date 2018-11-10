@@ -1,0 +1,87 @@
+body{
+    background:  url("../images/background.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Bubblegum Sans', cursive;
+}
+
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 60px;
+}
+.gif-image {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+    border: 4px solid  rgb(61, 63, 65,0.2);
+    width: 200px;
+    height: 200px;
+    
+    
+}
+
+.individual-gif-container{
+    display:inline-block;
+    vertical-align:top;
+    margin: 5px 5px 5px 5px;
+    width: 200px;
+    height: 260px;
+   
+    
+}
+
+.individual-info-container{
+   margin-top: -3px;
+   
+    
+}
+
+
+#submit{
+    margin-top: 1.5vh;
+   
+}
+
+#emotion-input{
+    margin-top: 1.5vh;
+    width: 200px;
+    max-width: 100%;
+}
+#emotion:focus{
+    outline:2px solid #efad07 !important;
+}
+
+#gif-container{
+    font-size: 12px;
+    margin: 20px;
+    max-width: 100%;
+    
+   
+}
+
+.download{
+    margin-left: 10px;
+}
+
+
+
+.button-container{
+    margin-bottom: 30px;
+    border: 2px dotted rgb(137, 185, 25);
+}
+
+#emotion-input {
+    color: #efad07;
+    
+}
+
+.emotion-button{
+    background-color: rgb(16, 59, 94,0.8);
+    color: #efad07;
+    margin: 3px;
+    font-size: 18px;
+
+}
+
+.title {
+    font-size: 10px;
+}
