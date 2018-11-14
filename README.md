@@ -1,6 +1,6 @@
 # rebecalvarez.github.io-GifTastic
 
-<<--The GifTastic Project -->>
+*The GifTastic Project*
 
 Author: Rebeca Dodero   
 Date: 11/9/2018
