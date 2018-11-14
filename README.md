@@ -1,6 +1,6 @@
 # rebecalvarez.github.io-GifTastic
 
-#The GifTastic Project*
+# The GifTastic Project
 
 
 This project is a dynamic web page that populates with gifs of your choice. 
@@ -11,6 +11,6 @@ The user can add more buttons of emotions and keep populating the page with the 
 
 Each gif has their given title and rating. The gifs can be saved by the user, by right-clicking on the image and saving it.
 
-##Author: Rebeca Dodero   
-##Date: 11/9/2018
+## Author: Rebeca Dodero   
+## Date: 11/9/2018
 
