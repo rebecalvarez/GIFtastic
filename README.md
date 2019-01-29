@@ -9,7 +9,7 @@ The user can add more buttons of emotions and keep populating the page with the 
 
 Each gif has their given title and rating. The gifs can be saved by the user, by right-clicking on the image and saving it.
 
-This is the [LINK](https://rebecalvarez.github.io/rebecalvarez.github.io-GifTastic/  "LINK") to the project. 
+This is the [LINK](https://rebecalvarez.github.io/GifTastic/  "LINK") to the project. 
 
 ## Author: Rebeca Dodero   
 ## Date: 11/9/2018
